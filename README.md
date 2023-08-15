@@ -19,7 +19,7 @@ files. These files are hosted to the local port using a simple **server** binary
 
 ## Screenshots
 
-- Main apllication window
+- Main application window
 ![Main Window](docs/Main_application_window.png)
 
 - Gameplay window
