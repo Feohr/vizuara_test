@@ -16,3 +16,11 @@ files. These files are hosted to the local port using a simple **server** binary
 - [GTK](https://www.gtk.org/docs/installations/linux)
 
 - latest iteration of 2.0 at [WebKitGtk](https://webkitgtk.org/releases/)
+
+## Screenshots
+
+- Main apllication window
+![Main Window](docs/Main_application_window.png)
+
+- Gameplay window
+![Gameplay window](docs/Gameplay_window.png)
